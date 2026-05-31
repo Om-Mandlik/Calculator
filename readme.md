@@ -25,10 +25,3 @@ A simple calculator built using HTML, CSS, and JavaScript that performs basic ar
 * Use the backspace button to delete the last character.
 * Use the clear button to reset the display.
 
-## Author
-
-Created as a beginner-friendly JavaScript project for learning DOM manipulation and event handling.
-
-## License
-
-This project is open source and available under the MIT License.
