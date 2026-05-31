@@ -1,55 +1,11 @@
-📌 Project Title
+<h3>Calculator Web App</h3> 
 
-Simple Calculator Web Application
+A simple calculator built using HTML, CSS, and JavaScript that performs basic arithmetic operations. The calculator provides a clean interface and supports real-time input, calculation, deletion, and clearing of the display.
 
-📖 Description
-
-This is a basic Calculator web application created using:
-
-HTML
-CSS
-JavaScript
-
-
-✨ Features
-Addition
-Subtraction
-Multiplication
-Division
-Clear screen button
-Responsive design
-Easy-to-use interface
-🛠 Technologies Used
-HTML5
-CSS3
-JavaScript
-📂 Project Structure
-calculator/
-│
-├── index.html
-├── style.css
-└── script.js
-▶️ How to Run
-Create a folder named calculator
-Save the files:
-index.html
-style.css
-script.js
-Open index.html in any web browser.
-📸 Output
-
-The calculator interface includes:
-
-Number buttons
-Operator buttons
-Display screen
-Clear and Equal buttons
-📚 Learning Concepts
-
-This project helps in understanding:
-
-HTML structure
-CSS styling and layouts
-JavaScript functions
-DOM manipulation
-Event handling
+#<h2>Features</h2>
+1.  Addition, Subtraction, Multiplication, and Division
+2.  Real-time display updates
+3.  Backspace functionality to remove the last entered character
+4.  Clear display option
+5.  Error handling for invalid expressions
+6.  Clean and user-friendly interface
